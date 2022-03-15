@@ -1,4 +1,4 @@
-package ru.minikhanov.springsecirity.Controller;
+package ru.minikhanov.springsecirity.controller;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
